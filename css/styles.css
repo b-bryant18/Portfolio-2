@@ -689,3 +689,8 @@ a.dotted-link:hover {
 #past {
   float: left;
 }
+
+#pastProjects {
+  height: 100px;
+ max-width: fit-content;
+}
