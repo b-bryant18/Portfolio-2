@@ -697,3 +697,7 @@ a.dotted-link:hover {
   height: 100px;
  max-width: fit-content;
 }
+
+#beach {
+  height: 300px;
+}
