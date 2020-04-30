@@ -704,3 +704,9 @@ a.dotted-link:hover {
 #beach {
   height: 300px;
 }
+
+#ContactInfo {
+  float: right;
+  margin-right: 300px;
+  margin-top: 100px;
+}
