@@ -9,10 +9,10 @@
 body {
   font-family: 'Lato', arial, sans-serif;
   color: #434343;
-  background-image: url('https://unsplash.com/photos/sbcIAn4Mn14') !important;
-  /* background-size: 150px; */
+  background-image: url('../images/guille.jpg');
+  background-size: 150px;
  
-  background: #DAE3E7;
+  /* background: #DAE3E7; */
   font-size: 16px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
