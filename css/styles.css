@@ -728,9 +728,21 @@ a.dotted-link:hover {
 
 /* Media Queries */
 @media only screen and (max-width: 375px) {
+  #beach {
+    max-width: 300px;
+    margin-top: 14px;
+  }
   #ContactInfo {
    float: left;
+   width: 345px;
   }
+  .sections-wrapper {
+    padding-top: 20px;
+  }
+  .header {
+    padding: 0px;
+  }
+ 
 }
 
 
