@@ -712,9 +712,9 @@ a.dotted-link:hover {
   margin-top: 100px;
 }
 
-#headerList {
-  margin-left: 50px;
-}
+/* #headerList {
+  margin-right: 25px;
+} */
 
 #resumeTextLink {
   margin-left: 50px;
