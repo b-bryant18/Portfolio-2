@@ -183,7 +183,7 @@ a.dotted-link:hover {
 }
 
 .header .profile-content .social a:hover {
-  background: #778492;
+  background: darkviolet;
 }
 
 .header .profile-content .social a .svg-inline--fa {
@@ -719,6 +719,10 @@ a.dotted-link:hover {
 #resumeTextLink {
   margin-left: 50px;
   float: left;
+}
+
+#resumeTextLink:hover {
+  color: rgb(80, 80, 80);
 }
 
 #aboutMe {
