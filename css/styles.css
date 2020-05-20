@@ -718,6 +718,7 @@ a.dotted-link:hover {
 
 #resumeTextLink {
   margin-left: 50px;
+  float: left;
 }
 
 #aboutMe {
