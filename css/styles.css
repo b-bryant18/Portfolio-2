@@ -704,6 +704,7 @@ a.dotted-link:hover {
 /* Profile picture */
 #beach {
   height: 300px;
+  width: 260px;
   margin-left:100px;
 }
 
@@ -736,6 +737,7 @@ a.dotted-link:hover {
   #beach {
     max-width: 300px;
     margin-top: 14px;
+    margin-left: 44px;
   }
   .header .profile-content .name {
     margin-left: 20px;
