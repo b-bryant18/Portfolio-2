@@ -714,17 +714,9 @@ a.dotted-link:hover {
   margin-top: 100px;
 }
 
-#resumeBox {
-  margin-left: 50px;
-}
-
 #resumeTextLink {
   margin-left: 50px;
   float: left;
-}
-
-#resumeTextLink:hover {
-  color: rgb(80, 80, 80);
 }
 
 #aboutMe {
