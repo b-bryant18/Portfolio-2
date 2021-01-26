@@ -715,8 +715,9 @@ a.dotted-link:hover {
 }
 
 #resumeTextLink {
-  margin-left: 50px;
-  float: left;
+text-align: left;
+margin-left: 100px;
+  /* margin-left: 50px; */
 }
 
 #aboutMe {
